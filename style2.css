@@ -1,0 +1,36 @@
+.logo{
+    height: 50px;
+    background-color: black;
+    color: red;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+body{
+    background-color: aqua;
+
+}
+.container{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    margin-left:400px;
+    margin-top: 40px;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.old{
+    text-decoration: line-through;
+}
+
+
+    
+
+
