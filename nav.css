@@ -1,0 +1,30 @@
+.navigation{
+    display: flex;
+    background-color:  #a28089;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+a{
+    margin-right: 100px;
+    color: #8458B3;
+    text-decoration: none;
+}
+
+input{
+    margin-right:100px;
+}
+
+.logo{
+    color: red;
+    font-size: 20px;
+}
+
+p{
+    font-weight: bold;
+}
+
+body{
+    background-color:  #d0bdf4;
+}
